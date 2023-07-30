@@ -8,7 +8,7 @@
 
 ![EndeavourOS Logo](https://raw.githubusercontent.com/PlayNux/os-theming/master/playnux.png "PlayNux Logo") ![EndeavourOS dark Logo](https://raw.githubusercontent.com/PlayNux/os-theming/master/playnux-dark.png "PlayNux dark Logo")
 ---
-![EndeavourOS Icon](https://raw.githubusercontent.com/PlayNux/os-theming/master/playnux-icon.png "PlayNux Icon")
+![PlayNux Icon](https://raw.githubusercontent.com/PlayNux/os-theming/master/PlayNux-icon.png "PlayNux Icon")
 
 * 24.03.2023: adding some dark variants for logo files (joekamprad)
 * 06.04.2021: review all icon and logo files and make them square. (joekamprad)
